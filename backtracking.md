@@ -1,3 +1,4 @@
-#backtracking
+#backtracking 回溯 
+尝试→如果不行（或已经探索完），就撤销刚才的选择，退回上一步，换个方向继续尝试"
 
 Subset
